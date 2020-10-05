@@ -7,7 +7,10 @@ export default function () {
       <h2 className="text-4xl font-semibold">
         Documentation for projects i've built
       </h2>
-      <DocCard name="node-itunes-search" description="description here" />
+      <DocCard
+        name="node-itunes-search"
+        description="A simple NodeJS wrapper for the iTunes Search API."
+      />
     </div>
   );
 }

@@ -9,10 +9,6 @@
   },
   "dependencies": {
     "autoprefixer": "^9.8.6",
-    "metascraper": "^5.14.14",
-    "metascraper-description": "^5.14.14",
-    "metascraper-logo": "^5.14.14",
-    "metascraper-title": "^5.14.14",
     "next": "9.5.3",
     "postcss-loader": "^4.0.2",
     "postcss-preset-env": "^6.7.0",
