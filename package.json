@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "autoprefixer": "^9.8.6",
-    "next": "9.5.3",
+    "next": "9.5.4",
     "postcss-loader": "^4.0.2",
     "postcss-preset-env": "^6.7.0",
     "react": "16.13.1",
